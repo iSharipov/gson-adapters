@@ -1,0 +1,28 @@
+[
+  {
+    "id": "2e73a8be-75ea-4414-959c-2bf8a8318f3a",
+    "type": "commission",
+    "firstName": "John",
+    "lastName": "Earls",
+    "ssn": "399-27-4392",
+    "grossSales": 1000000,
+    "commissionRate": 25
+  },
+  {
+    "id": "f59ec059-6697-434d-99ab-b100712f717c",
+    "type": "hourly",
+    "firstName": "John",
+    "lastName": "Qin",
+    "ssn": "035-38-7079",
+    "wage": 1000,
+    "hours": 40
+  },
+  {
+    "id": "5b83fd19-979d-4493-8ea6-4b62ccc54d03",
+    "type": "salaried",
+    "firstName": "John",
+    "lastName": "Toy",
+    "ssn": "430-07-7447",
+    "weeklySalary": 1000
+  }
+]
