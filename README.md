@@ -10,6 +10,11 @@
 <a href="https://lgtm.com/projects/g/iSharipov/gson-adapters/context:java">
     <img alt="Language grade: Java" src="https://img.shields.io/lgtm/grade/java/g/iSharipov/gson-adapters.svg?logo=lgtm&logoWidth=18"/>
 </a>
+</br>
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/iSharipov
 
 ## Why use Gson adapters?
 
