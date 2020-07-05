@@ -1,5 +1,7 @@
 # Adapters for Gson JSON library
 
+![Webp net-resizeimage](https://user-images.githubusercontent.com/7099230/86540678-cf351a80-bf0f-11ea-873d-a334d006dd65.png)
+
 ![Java CI with Maven](https://github.com/iSharipov/gson-adapters/workflows/Java%20CI%20with%20Maven/badge.svg?branch=master)
 <a href="https://codecov.io/gh/iSharipov/gson-adapters">
   <img src="https://codecov.io/gh/iSharipov/gson-adapters/branch/master/graph/badge.svg" />
